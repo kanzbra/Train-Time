@@ -1,0 +1,43 @@
+body {
+    background: url('../images/train.jpg');
+    background-position: center;
+   background-size:cover;
+   background-repeat: repeat;
+  
+
+}
+
+.jumbotron {
+    background: #ffd89b; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #ffd89b, #19547b); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #ffd89b, #19547b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Berkshire Swash', cursive;
+    
+}
+
+h1 {
+    font-size: 52px;
+}
+
+h3{
+    font-size: 52px;
+
+    
+}
+
+.mb-4 {
+    background: #ffd89b; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #ffd89b, #19547b); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #ffd89b, #19547b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+.card-title {
+    font-family: 'Berkshire Swash', cursive;
+    
+}
+
+.card-body {
+    font-family: 'Berkshire Swash', cursive;
+    
+}
